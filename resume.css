@@ -32,14 +32,14 @@ body::-webkit-scrollbar {
 }
 
 .name {
-  font-size: 65px;
+  /* font-size: 65px; */
   font-weight: 500;
   color: #ffffff;
 }
 .title {
   color: #003d74;
   font-weight: 500;
-  font-size: 24px;
+  font-size: 20px;
 }
 .about-me {
   justify-content: space-around;
@@ -48,7 +48,7 @@ body::-webkit-scrollbar {
 .software-name {
   color: #003d74;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
   letter-spacing: 0.8px;
 }
 /* mainBox */
@@ -63,7 +63,7 @@ body::-webkit-scrollbar {
 .para {
   color: #ffffff;
   font-weight: 500;
-  font-size: 27px;
+  font-size: 18px;
 }
 
 .para::first-letter {
@@ -71,7 +71,7 @@ body::-webkit-scrollbar {
 }
 .technical {
   background-color: #eceff1;
-  height: 75vh;
+  /* height: 75vh; */
 }
 .form {
   margin-left: 30px;
@@ -85,14 +85,14 @@ body::-webkit-scrollbar {
 }
 .contact {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 16px;
   letter-spacing: 1.5px;
   font-weight: 400;
 }
 
 .head {
   color: #003d74;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 500;
 }
 
